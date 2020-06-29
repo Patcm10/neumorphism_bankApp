@@ -190,7 +190,7 @@ class CreditCard extends StatelessWidget {
                         color: fCL, fontSize: 12, fontWeight: FontWeight.w700),
                   ),
                   Text(
-                    'Patricia Collado',
+                    'Frederik Herzerberg',
                     style: TextStyle(
                         color: fCD, fontSize: 18, fontWeight: FontWeight.w700),
                   ),
